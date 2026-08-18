@@ -44,7 +44,7 @@ function Hero() {
                     "
         >
           <img
-            src="public/assets/images/profile.png"
+            src="/assets/images/profile.png"
             alt="Gursimran"
             className="
     w-[300px]
