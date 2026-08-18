@@ -82,15 +82,15 @@ function Hero() {
         >
           <h1
             className="
-    rethink-sans
-    font-bold
-    !text-white
-    text-[28px]
-    leading-[1.15]
-    sm:text-[36px]
-    md:text-[46px]
-    lg:text-[52px]
-  "
+                  rethink-sans
+                  font-bold
+                  !text-white
+                  text-[28px]
+                  leading-[1.15]
+                  sm:text-[36px]
+                  md:text-[46px]
+                  lg:text-[52px]
+                "
           >
             Hi! I'm{" "}
 
