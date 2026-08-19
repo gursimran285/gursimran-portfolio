@@ -18,7 +18,7 @@ const About = () => {
             style={{
                 background: "#111111",
                 color: "#ffffff",
-                padding: "80px 5% 50px",
+                padding: "50px 5% 50px",
                 minHeight: "0",
                 height: "auto"
             }}
@@ -32,6 +32,7 @@ const About = () => {
                     gap: "100px",
                     alignItems: "center",
                 }}
+
             >
 
                 {/* =========================
