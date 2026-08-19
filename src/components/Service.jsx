@@ -32,7 +32,7 @@ function Services() {
   return (
     <section
       id="services"
-      className="bg-[#111] text-white py-16"
+      className="bg-[#111] text-white py-10"
     >
       <div className="max-w-[1400px] mx-auto px-[5%]">
         <span
