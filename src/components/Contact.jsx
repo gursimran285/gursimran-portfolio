@@ -11,7 +11,7 @@ function Contact() {
   return (
     <section
       id="contact"
-      className="bg-black text-white py-24 px-6 sm:px-10 lg:px-16"
+      className="bg-black text-white py-20 px-6 sm:px-10 lg:px-16"
     >
       <div className="max-w-6xl mx-auto">
 
@@ -61,7 +61,7 @@ function Contact() {
               max-w-3xl
               border
               border-[#242424]
-              rounded-2xl
+              rou nded-2xl
               p-7
               sm:p-9
               lg:p-10
@@ -325,7 +325,10 @@ function Contact() {
         <div className="flex justify-center mt-9">
 
           <a
-            href="mailto:graphicbysimran@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=graphicbysimran@gmail.com&su=Project%20Inquiry&body=Hi%20Gursimran,%20I%20would%20like%20to%20discuss%20a%20project..."
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={() => setIsOpen(false)}
             className="
               inline-flex
               items-center
