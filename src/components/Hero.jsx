@@ -11,7 +11,7 @@ function Hero() {
                 items-center
                 justify-center
                 pt-24
-                pb-10
+                pb-4
                 overflow-hidden
             "
     >
@@ -43,19 +43,19 @@ function Hero() {
                         justify-center
                     "
         >
-          <img
-            src="/assets/images/profile.png"
-            alt="Gursimran"
-            className="
-    w-[300px]
-    sm:w-[380px]
-    md:w-[460px]
-    lg:w-[540px]
-    xl:w-[600px]
-    h-auto
-    object-contain
-    mx-auto
-  "
+          <img 
+            src="/assets/images/profile.png" 
+            alt="Gursimran" 
+            className=" 
+    w-[350px] 
+    sm:w-[450px] 
+    md:w-[550px] 
+    lg:w-[650px] 
+    xl:w-[700px] 
+    h-auto 
+    object-contain 
+    mx-auto 
+  " 
           />
         </motion.div>
 
