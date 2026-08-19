@@ -148,8 +148,8 @@ function SkillCard({ skill }) {
       style={{
         background: "#242424",
         border: "1px solid #444",
-        borderRadius: "18px",
-        padding: "22px",
+        borderRadius: "15px",
+        padding: "18px",
         display: "flex",
         alignItems: "center",
         gap: "18px",
@@ -163,7 +163,7 @@ function SkillCard({ skill }) {
       <div
         style={{
           color: skill.color,
-          fontSize: "38px",
+          fontSize: "35px",
           minWidth: "40px",
           display: "flex",
           alignItems: "center",
